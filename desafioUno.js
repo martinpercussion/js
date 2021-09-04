@@ -13,11 +13,3 @@ alert ("el costo total de la obra a realizar es de : $ " + presupuestoTotal)
 
 
 
-
-/* 
-var Presupuesto = prompt ("cuando dinero le gustaría gastar en esta etapa?")
-var PresupuestoAmbiente = (SuperficieAmbiente) * 250000 // superficie * costo x mt2
-var PresupuestoPared = (SuperficiePared) * 25000 // costo x m2
- 
-
- */
